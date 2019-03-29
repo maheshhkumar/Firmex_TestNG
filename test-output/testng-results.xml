@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8428" started-at="2019-03-28T19:57:44Z" finished-at="2019-03-28T19:57:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8428" started-at="2019-03-28T19:57:44Z" finished-at="2019-03-28T19:57:53Z">
+      <class name="assignment.NewTest">
+        <test-method status="PASS" signature="load_class()[pri:0, instance:assignment.NewTest@27a8c74e]" name="load_class" is-config="true" duration-ms="5682" started-at="2019-03-28T19:57:44Z" finished-at="2019-03-28T19:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load_class -->
+        <test-method status="PASS" signature="firmex_runner()[pri:0, instance:assignment.NewTest@27a8c74e]" name="firmex_runner" duration-ms="1545" started-at="2019-03-28T19:57:50Z" finished-at="2019-03-28T19:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firmex_runner -->
+        <test-method status="PASS" signature="close_session()[pri:0, instance:assignment.NewTest@27a8c74e]" name="close_session" is-config="true" duration-ms="1168" started-at="2019-03-28T19:57:51Z" finished-at="2019-03-28T19:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_session -->
+      </class> <!-- assignment.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
